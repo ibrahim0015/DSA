@@ -1,3 +1,5 @@
+// This code takes a number from user and creates a hollow diamond pattern by nested loops.
+
 #include<iostream>
 using namespace std; 
 int main(){
