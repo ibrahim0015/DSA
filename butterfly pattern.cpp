@@ -1,3 +1,6 @@
+// This code takes a number from the user and creates a butterfly pattern using nested loops.
+
+
 #include<iostream>
 using namespace std;
 int main(){
